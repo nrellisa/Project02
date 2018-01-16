@@ -20,7 +20,7 @@ public static void main (String[] args) {
     umur = input.nextInt();
     
     if (umur <= 45){
-        Ulasan="Anda masih muda dan cantik";
+        Ulasan="Anda masih cantik dan kuat";
     }else {
         Ulasan="Anda sudah tua dan perlukan rehat";
 }
